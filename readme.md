@@ -9,7 +9,15 @@
 </p>
 
 ## Scope
-Public repository of Apache Spark in Databrick community edition Free ( https://community.cloud.databricks.com/login.html )  from Basic data Manipulation to Advance Modelling
+Public repository of Apache Spark in Databrick community edition Free ( https://community.cloud.databricks.com/login.html ) 
+
+# content:
+
+- Basic data Manipulation 
+- Data Processing 
+- Advance Modelling
+- NLP with Spark
+- Streaming Data 
 
 
 
