@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <h1 align="center">
-   FinPyRL 
+   Apache Spark & Databricks 
 </h1>
 <h4 align="center">:star: my repo so you can keep updated!</h4> 
 </p>
