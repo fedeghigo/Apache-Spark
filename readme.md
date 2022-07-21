@@ -13,31 +13,8 @@ Public repository of Apache Spark in Databrick community edition Free ( https://
 
 # content:
 
-- Basic data Manipulation 
+- Basic Data Manipulation 
 - Data Processing 
 - Advance Modelling
 - NLP with Spark
 - Streaming Data 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Repo of Apche Spark from Basic Data Manipulation to Advanced Ml.
